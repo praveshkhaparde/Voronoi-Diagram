@@ -1,0 +1,2 @@
+Give node/points in input.txt file
+Give querry point in query_point.txt file

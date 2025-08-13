@@ -1,0 +1,1 @@
+Give node/points in input.txt file
